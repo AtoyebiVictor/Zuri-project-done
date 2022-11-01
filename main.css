@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#body {
+    background-color: white;
+    border: 2px solid white;
+    box-shadow: 40px;
+    margin: 30px;
+}
+.header {
+    text-align: center;
+}
+.header h3 {
+    padding-top: 15px;
+    font-size: x-large;
+}
+.section {
+    margin: 20px;
+    font-size: large;
+}
+.section .link {
+    background-color: rgb(194, 194, 194);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+.section .link a {
+    text-decoration: none;
+}
+.section .link:hover {
+    border: 4px solid rgb(132, 46, 132);
+    cursor: pointer;
+}
+.section .link2 {
+    background-color: rgb(194, 194, 194);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+.section .link2 a {
+    text-decoration: none;
+}
+.section .link2:hover {
+    border: 4px solid purple;
+    cursor: pointer;
+}
+.section .link3 {
+    background-color: rgb(194, 194, 194);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+.section .link3 a {
+    text-decoration: none;
+}
+.section .link3:hover {
+    border: 4px solid purple;
+    cursor: pointer;
+}
+.section .link4 {
+    background-color: rgb(194, 194, 194);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+.section .link4 a {
+    text-decoration: none;
+}
+.section .link4:hover {
+    border: 4px solid purple;
+    cursor: pointer;
+}
+.section .link5 {
+    background-color: rgb(194, 194, 194);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+.section .link5 a {
+    text-decoration: none;
+}
+.section .link5:hover {
+    border: 4px solid purple;
+    cursor: pointer;
+}
+.section .link6 {
+    background-color: rgb(194, 194, 194);
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+.section .link6 a {
+    text-decoration: none;
+}
+.section .link6:hover {
+    border: 4px solid purple;
+    cursor: pointer;
+}
+.aside {
+    text-align: center;
+    margin: 20px;
+}
+.aside img {
+    width: 30px;
+    margin-right: 20px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+.footer span {
+    color: red;
+    font-size: 30px;
+}
+.footer p {
+    color: rgba(0,0,25,0.4);
+    font-size: 15px;
+}
+.footer img {
+    width: 90px;
+    height: 20px;
+}
